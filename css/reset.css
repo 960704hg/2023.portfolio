@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    line-height: 1;
+    font-family: 'Montserrat', 'Noto Sans KR', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+
+}
+
+dl,
+dt,
+dd {
+    padding: 0;
+    margin: 0;
+}
+
+.c01 {
+    background: #000;
+}
+
+.c02 {
+    background: #444;
+}
+
+.c03 {
+    background: #555;
+}
+
+.c04 {
+    background: #666;
+}
+
+
+.c21 {
+    background: #8aba2b;
+}
+
+.c22 {
+    background: #2ebad2;
+}
+
+.c23 {
+    background: #5c5758;
+}
+
+.c24 {
+    background: #00babb;
+}
+
+.c31 {
+    background: #ef426f;
+}
+
+.c32 {
+    background: #171C8F;
+}
+
+.c33 {
+    background: #f7f7f7;
+}
+
+.c34 {
+    background: #33333386;
+}
+
+.c41 {
+    background: #f0ffaa;
+}
+
+.c42 {
+    background: #ea0029;
+}
+
+.c43 {
+    background: #ffbe9f;
+}
+
+.c44 {
+    background: #000;
+}
+
+.c51 {
+    background: #fb6369;
+}
+
+.c52 {
+    background: #ddd;
+}
+
+.c53 {
+    background: #49d88b;
+}
+
+.c54 {
+    background: #909090;
+}
+
+.c55 {
+    background: #888;
+}
+
+.c56 {
+    background: #fff;
+}
+
+.c57 {
+    background: #fdac2b;
+}
+
+.c58 {
+    background: #20c997;
+}
+
+.c59 {
+    background: #f06414;
+}
